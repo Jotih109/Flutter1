@@ -12,7 +12,7 @@ class App extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true,
         appBarTheme: const AppBarTheme(
-          backgroundColor: Color.fromARGB(176, 169, 179, 113),
+          backgroundColor: Color.fromARGB(141, 251, 255, 0),
         ),
       ),
       home: MoedasPage(),
